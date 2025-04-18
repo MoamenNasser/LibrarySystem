@@ -72,3 +72,7 @@ Database integration (SQLite or MySQL)
 User authentication
 
 Logging and analytics
+
+## UML design for the whole application
+![UML Diagram](./UML_Diagram.png)
+
