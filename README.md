@@ -49,9 +49,13 @@ C++17 compatible compiler (e.g. g++)
 CMake (optional for build automation)
 
 Compile
+
 bash
+
 Copy
+
 Edit
+
 g++ -std=c++17 -o library_system main.cpp
 Run
 bash
