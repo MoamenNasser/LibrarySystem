@@ -74,5 +74,7 @@ User authentication
 Logging and analytics
 
 ## UML design for the whole application
-![UML Diagram](./UML_Diagram.png)
+<p align="center">
+  <img src="./UML_Diagram.png" width="600" alt="UML Diagram">
+</p>
 
