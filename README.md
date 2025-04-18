@@ -50,32 +50,20 @@ CMake (optional for build automation)
 
 Compile
 
-bash
-
-Copy
-
-Edit
-
 g++ -std=c++17 -o library_system main.cpp
-Run
-bash
-Copy
-Edit
+
 ./library_system
-📁 File Structure (suggested)
-pgsql
-Copy
-Edit
-📂 LibrarySystem
-├── 📄 main.cpp
-├── 📄 Book.h / Book.cpp
-├── 📄 Member.h / Member.cpp
-├── 📄 Library.h / Library.cpp
-├── 📄 Transaction.h / Transaction.cpp
-├── 📄 NotificationService.h / .cpp
-├── 📄 Observer.h
-├── 📄 UML_Diagram.png
-└── 📄 README.md
+
+## 📂 LibrarySystem
+    ├── 📄 main.cpp
+    ├── 📄 Book.h / Book.cpp
+    ├── 📄 Member.h / Member.cpp
+    ├── 📄 Library.h / Library.cpp
+    ├── 📄 Transaction.h / Transaction.cpp
+    ├── 📄 NotificationService.h / .cpp
+    ├── 📄 Observer.h
+    ├── 📄 UML_Diagram.png
+    └── 📄 README.md
 📌 Future Improvements
 GUI interface (Qt or ImGui)
 
